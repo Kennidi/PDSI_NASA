@@ -1,0 +1,45 @@
+<?php
+include ("src/engine.php");
+$url='src/main.php';
+if(false){
+	
+}
+else {
+	if(isset($_GET['comet'])){
+		$url='src/planets/comet.php';
+	}
+	if(isset($_GET['earth'])){
+		$url='src/planets/earth.php';
+	}
+	if(isset($_GET['jupiter'])){
+		$url='src/planets/jupiter.php';
+	}
+	if(isset($_GET['mars'])){
+		$url='src/planets/mars.php';
+	}
+	if(isset($_GET['mercury'])){
+		$url='src/planets/mercury.php';
+	}
+	if(isset($_GET['moon'])){
+		$url='src/planets/moon.php';
+	}
+	if(isset($_GET['neptune'])){
+		$url='src/planets/neptune.php';
+	}
+	if(isset($_GET['pluto'])){
+		$url='src/planets/pluto.php';
+	}
+	if(isset($_GET['saturn'])){
+		$url='src/planets/saturn.php';
+	}
+	if(isset($_GET['sun'])){
+		$url='src/planets/sun.php';
+	}
+	if(isset($_GET['uranus'])){
+		$url='src/planets/uranus.php';
+	}
+	if(isset($_GET['venus'])){
+		$url='src/planets/venus.php';
+	}
+}
+include($url);

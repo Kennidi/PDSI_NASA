@@ -1,0 +1,126 @@
+body{
+	background-image:url("../img/fondo.jpg");
+    background-attachment:fixed;
+}
+
+@font-face{
+    font-family: "Nasa";  
+    src: url(nasa.ttf) format("truetype");  
+}
+
+li ul{
+    display:none;
+    position:absolute;
+}
+
+li:hover ul{
+    background:#CCC;
+    border-bottom-left-radius:13px;
+    border-top-right-radius:13px;
+    display:block;
+}
+
+footer{
+    background-color:#CCC;
+    border-bottom-left-radius:13px;
+    border-bottom-right-radius:13px;
+    box-shadow:3px 3px 32px 8px white;
+    color:blue;
+    font-family:"Nasa";
+    font-size:20px;
+    height:50px;
+    margin:auto;
+    opacity:.80;
+    padding-top:35px;
+    text-align:center;
+    width:1224px;
+}
+
+#ban{
+	background-image:url("../img/banner5.png");
+	width:1188px;
+	height:300px;
+	margin:auto;
+	border-radius:13px;
+}
+
+#barraMenu{
+    background-color:#CCC;
+    border-top-left-radius:13px;
+    border-top-right-radius:13px;
+    box-shadow:3px 3px 32px 8px white;
+    font-family:'Acme',sans-serif;
+    font-size:20px;
+    height:50px;
+    margin-bottom:35px;
+    margin:auto;
+    opacity:.90;
+    padding:5px;
+    text-align:center;
+    width:1216px;
+}
+
+#menu > li{
+	display:inline-block;
+}
+
+#menu > a{
+	padding:0 0 10px 5px;
+	width:90px;
+}
+
+
+/*#menu li:hover
+{
+    background:green;
+    font-size:19px;
+    border-bottom-right-radius:13px;
+    border-top-left-radius:13px;
+}*/
+
+#menu a{
+    color:blue;
+    font-family:"Nasa";
+    margin:auto;
+    text-decoration:none;
+}
+
+#menu li:hover{
+    /*background:#6192C2;*/
+    background-color:white;
+    border-bottom-right-radius:13px;
+    border-top-left-radius:13px;
+    font-size:19px;
+    opaque:.75;
+}
+
+#principal{
+	background-color:white;
+    box-shadow:3px 3px 32px 8px white;
+    border-bottom-right-radius:13px;
+    border-bottom-left-radius:13px;
+    min-height:792px;
+    margin:auto;
+    opacity:.80;
+	width:1224px;
+}
+.{
+opacity:.95;
+}
+
+.sub-menu a{
+    display: block;
+    padding:5px 10px;
+    width:120px;
+}
+/*Styles for the menubar*/
+span.menu{
+	font-family: Nasa;
+}
+section.menu{
+	text-align:center;
+}
+li.menu{
+	text-align:left;
+}
+/*Styles for the menubar*/

@@ -1,0 +1,57 @@
+		<div id="imagen">
+			
+		</div>
+		<div></br>
+			<p align=justify style="width:90%;margin:auto;font-size:18px;" >
+				<img src="img/planets/jupiter.gif" width="193px" alt="jupiter" vspace=7 hspace=7 align=left />
+				<span>
+				
+Jupiter is the fifth planet from the Sun. It is the largest planet in our Solar System. Even though it is far from the Sun and Earth, its size and its cloud cover gives it a bright appearance.
+
+Jupiter is covered by a gaseous cloud cover. Jupiter rotates on its axis faster than any other planet in the Solar System — about two and a half times every Earth day. Combined with its gaseous cloud cover, this results in permanent atmospheric storms. The most notable of these storms causes the "Red Spot."
+
+Jupiter has at least 16 moons, plus a gaseous ring that could contain other moons. The four largest moons can be seen with a small telescope. They were first discovered by Galileo Galilei in 1610, and are called the Galilean Moons: Europa, Callisto, Ganymede, and Io. Galileo discovered these moons with his newly developed telescope. These were the first moons ever observed orbiting another planet, and showed that not all objects revolved around the Earth or Sun.
+
+Of these four moons, Ganymede is the largest in the Solar System, Callisto is the third-largest in the Solar System, and Io is the fourth-largest. (The second-largest moon in the Solar System is Saturn's moon Titan.) The smaller moons are the size of asteroids, and were discovered in the 1900s with more powerful telescopes. Jupiter's moons are (from nearest to furthest from the planet): Metis, Adrastea, Almathea, Thebe, Io, Europa, Ganymede, Callisto, Leda, Himalia, Lysithea, Elara, Ananke, Carme, Pasiphae, and Sinope.
+
+Astronomers had a unique opportunity to observe a comet striking a planet in July 1994 when the Shoemaker-Levy Comet struck Jupiter. Before the comet struck, Jupiter's powerful gravity broke it into 21 pieces. The impacts made dark spots on Jupiter's surface that could be seen by thousands of amateur astronomers on Earth. Some of these black spots were larger than the Earth. After several months, the powerful wind storms on Jupiter's surface covered these black spots.
+
+Ancient Greeks and Romans named Juptier after their mythological god of greatness, Jove.			
+			
+</span>
+			</p><br><br>
+			
+<table border="1" cellpadding="8" cellspacing="0" bgcolor="#EEEEEE" align="center">
+<tr>
+<td align="left" nowrap>
+<pre> Revised: Dec 17, 2009              Jupiter                                 599
+ 
+ PHYSICAL DATA (updated 2009-Jan-28):
+  Mass (10^24 kg)       =  1898.13+-.19   Density (g/cm^3)       =  1.326
+  Equat. radius (1 bar) = 71492+-4 km     Polar radius (km)      = 66854+-10
+  Volumetric mean radius= 69911+-6 km     Flattening             =  0.06487
+
+  Rotation period       = 9h 55m 29.685s  Rot. rate(10^-4 rad/s) =  1.75865
+  m = w^2a^3/GM         =  0.089195       Hydrostatic flat., fh  =  0.06509
+  Inferred rot. period  =  9.894+-0.02 hr ks = 3*J2/m            =  0.494
+  Mom. of inert. I/MRo^2=  0.254          I/MRo^2 (upper bound)  =  0.267 
+  Rocky core mass (Mc/M)=  0.0261         Y factor (He/H ratio)  =  0.18+-0.04
+
+  GM (km^3/s^2)         = 126,686,511     GM 1-sigma (km^3/s^2)  = +-100
+  Equ. grav, ge (m/s^2) = 24.79           Pol. grav, gp (m/s^2)  = 28.34
+
+  Geometric albedo      =  0.52           Visual magnitude V(1,0)= -9.40
+  Vis. mag. (opposition)= -2.70           Obliquity to orbit     =  3.12 deg
+  Sidereal orbit period = 11.862615 yr    Sidereal orbit period  = 4332.820 d
+  Mean daily motion     = 0.0831294 deg/d Mean orbit velocity    = 13.0697 km/s
+
+  Atmos. temp. (1 bar)  = 165+-5 K        Heat flow/mass (x10^7) = 15 erg/gm*s
+  Planetary Solar Const =  50.5 W/m^2     Dipole tilt/offset     = 9.6deg/0.1Rp 
+  Escape velocity (km/s)=  59.5           Mag.dip.mom(gauss-Rp^3)= 4.2 
+  Aroche(ice)/Rp        =  2.76           Hill's sphere rad. Rp  = 740
+</pre>
+</td></tr>
+</table>
+			
+<br /><br />
+		</div>

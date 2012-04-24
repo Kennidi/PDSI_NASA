@@ -1,0 +1,3 @@
+$(function() {
+    $('#imagenes a').lightBox();
+});
