@@ -6,7 +6,7 @@ class Master{
 <html lang="en">
 	<head>
 		<meta charset="utf-8"/>
-		<title>Planetary Data System Interface</title>
+		<title>PDS Interface</title>
 		<link rel="stylesheet" type="text/css" href="estilos/reset.css">
 		<link rel="stylesheet" type="text/css" href="estilos/style.css">
 		<link rel="shortcut icon" href="img/icon.ico" type="image/x-icon" />
